@@ -1,3 +1,3 @@
 # AI-resume-builder
 
-deploy link - ai-resume-byprem.netlify.app
+deploy link - https://ai-resume-byprem.netlify.app
