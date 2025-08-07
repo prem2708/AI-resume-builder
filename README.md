@@ -2,9 +2,7 @@
 
 # <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="40" style="vertical-align:middle;"/> AI Resume Builder
 
-<p align="center">
-  <img src="https://ai-resume-byprem.netlify.app/banner.png" alt="AI Resume Builder Banner" width="80%"/>
-</p>
+
 
 <p align="center">
   <b><i>Create stunning, professional resumes in minutes with the power of AI.</i></b>
@@ -46,11 +44,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/220189077-1b5b6e7e-6b7e-4b7e-8e2e-2e7e7e7e7e7e.png" alt="Sample Resume Preview" width="60%"/>
-  <br>
-  <i>Sample Resume Preview</i>
-</p>
+
 
 ---
 
@@ -122,13 +116,7 @@ ai_resume_builder/
 
 Contributions are welcome! Please open issues or submit pull requests for improvements and new features.
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙏 Acknowledgements
 
@@ -141,4 +129,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-For questions or feedback, reach out to [Prem](mailto:your.email@example.com) or open an issue on GitHub.
+For questions or feedback, reach out to [Prem](mailto:preminnovator2708@gmail.com) or open an issue on GitHub.
