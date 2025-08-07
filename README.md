@@ -1,27 +1,58 @@
 
-# AI Resume Builder
 
-![AI Resume Builder Banner](https://ai-resume-byprem.netlify.app/banner.png)
+# <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="40" style="vertical-align:middle;"/> AI Resume Builder
 
-> **Create stunning, professional resumes in minutes with the power of AI.**
+<p align="center">
+  <img src="https://ai-resume-byprem.netlify.app/banner.png" alt="AI Resume Builder Banner" width="80%"/>
+</p>
+
+<p align="center">
+  <b><i>Create stunning, professional resumes in minutes with the power of AI.</i></b>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://ai-resume-byprem.netlify.app"><img src="https://img.shields.io/badge/Live%20Demo-Online-green?style=for-the-badge&logo=netlify" alt="Live Demo"/></a>
+  <img src="https://img.shields.io/github/license/prem2708/AI-resume-builder?style=for-the-badge" alt="License"/>
+  <img src="https://img.shields.io/github/stars/prem2708/AI-resume-builder?style=for-the-badge" alt="Stars"/>
+</p>
 
 ---
 
 ## 🚀 Live Demo
 
-[🌐 Visit the App](https://ai-resume-byprem.netlify.app)
+<a href="https://ai-resume-byprem.netlify.app"><img src="https://img.icons8.com/color/48/000000/rocket--v2.png" width="28"/> <b>Visit the App</b></a>
 
 ---
 
 ## ✨ Features
 
-- **AI-Powered Resume Generation**: Instantly generate resume content tailored to your background.
-- **Modern Templates**: Choose from beautiful, responsive resume templates.
-- **Easy Editing**: Intuitive forms for personal info, education, work experience, projects, and skills.
-- **Live Preview**: See your resume update in real-time as you edit.
-- **Export Options**: Download your resume as PDF or copy as text.
-- **Example Resumes**: Get inspired by sample resumes and templates.
-- **Mobile Friendly**: Fully responsive design for all devices.
+<table>
+  <tr>
+    <td>🤖 <b>AI-Powered Generation</b><br><sub>Instantly generate resume content tailored to your background.</sub></td>
+    <td>🎨 <b>Modern Templates</b><br><sub>Choose from beautiful, responsive resume templates.</sub></td>
+    <td>📝 <b>Easy Editing</b><br><sub>Intuitive forms for personal info, education, work experience, projects, and skills.</sub></td>
+  </tr>
+  <tr>
+    <td>👀 <b>Live Preview</b><br><sub>See your resume update in real-time as you edit.</sub></td>
+    <td>📤 <b>Export Options</b><br><sub>Download your resume as PDF or copy as text.</sub></td>
+    <td>📱 <b>Mobile Friendly</b><br><sub>Fully responsive design for all devices.</sub></td>
+  </tr>
+  <tr>
+    <td colspan="3">💡 <b>Example Resumes</b><br><sub>Get inspired by sample resumes and templates.</sub></td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/674621/220189077-1b5b6e7e-6b7e-4b7e-8e2e-2e7e7e7e7e7e.png" alt="Sample Resume Preview" width="60%"/>
+  <br>
+  <i>Sample Resume Preview</i>
+</p>
+
+---
 
 ---
 
